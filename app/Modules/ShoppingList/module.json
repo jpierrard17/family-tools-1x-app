@@ -1,0 +1,11 @@
+{
+    "name": "ShoppingList",
+    "alias": "shoppinglist",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "app\\Modules\\ShoppingList\\Providers\\ShoppingListServiceProvider"
+    ],
+    "files": []
+}
